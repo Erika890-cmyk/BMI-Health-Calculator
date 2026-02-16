@@ -3,9 +3,7 @@
 A **menu-driven, console-based BMI Calculator** built using **Java and Object-Oriented Programming (OOP)** principles.  
 This project calculates **Body Mass Index (BMI)**, determines health status, supports **multiple users**, stores **BMI history**, and includes **robust exception handling** for invalid inputs.
 
-Ideal for **Java beginners**, **college mini-projects**, and **OOP practice**.
 
----
 
 ## 📌 What is BMI?
 
@@ -26,8 +24,7 @@ BMI = weight (kg) / (height × height) (m²)
 - 🧾 View BMI calculation history
 - ⚠️ Exception handling for invalid inputs
 - 🧠 Clean OOP-based design
-- 📦 Beginner-friendly structure
-
+ 
 ---
 
 ## 🖥️ Menu Options
@@ -90,20 +87,4 @@ BMI-Calculator/
    
 ---
 
-## 🎯 Use Cases
 
-- Java beginner practice
-- College mini-project
-- OOP learning
-- Interview preparation
-- Console application demo
-
----
-
-## 🔮 Future Enhancements
-
-- 💾 Save BMI history to a file
-- 🕒 Add date & time to BMI records
-- 🧪 Unit testing
-- 🖥️ GUI using JavaFX or Swing
-- 🌐 REST API using Spring Boot
